@@ -1,0 +1,4 @@
+batch_grayscale
+input/*.ppm
+output/*.pgm
+artifacts/*.log
